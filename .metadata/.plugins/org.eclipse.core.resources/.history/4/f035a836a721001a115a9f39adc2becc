@@ -1,0 +1,24 @@
+package cvbuilder.entities;
+
+import java.time.LocalDate;
+
+import javax.persistence.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Entity
+@Data
+@NoArgsConstructor
+@Getter
+@Setter
+//AllArgsConstructor
+public class CurriculumVitae {
+
+	//List<Activite> activ
+	
+	
+}

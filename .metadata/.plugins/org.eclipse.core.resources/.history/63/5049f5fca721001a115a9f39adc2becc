@@ -1,0 +1,29 @@
+package cvbuilder.entities;
+
+import java.time.LocalDate;
+
+import javax.persistence.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Entity
+@Data
+@NoArgsConstructor
+@Getter
+@Setter
+@AllArgsConstructor
+public class Personne {
+
+	String nom;
+	String prenom;
+	String adresse_electronique;
+	String site_web;
+	LocalDate date_naissance;
+	String texte_descriptif;
+	String mot_de_passe;
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.cvbuilder.amu&apos; to &apos;cvbuilder.entities&apos;&#x0D;&#x0A;- Original project: &apos;CvBuilder&apos;&#x0D;&#x0A;- Original element: &apos;CvBuilder/src/main/java/com.cvbuilder.amu&apos;&#x0D;&#x0A;- Renamed element: &apos;CvBuilder/src/main/java/cvbuilder.entities&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.cvbuilder.amu&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.cvbuilder.amu" name="cvbuilder.entities" qualified="false" references="true" stamp="1576680686491" textual="false" version="1.0"/>
+</session>

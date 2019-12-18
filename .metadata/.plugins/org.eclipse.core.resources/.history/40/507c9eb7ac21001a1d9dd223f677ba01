@@ -1,0 +1,5 @@
+package cvbuilder.repository;
+
+public interface PersonneRepository {
+
+}

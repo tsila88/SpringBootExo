@@ -1,0 +1,15 @@
+package cvbuilder.entities;
+
+import java.time.LocalDate;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Activite {
+
+	LocalDate annee;
+	String nature;
+	String titre;
+	String texte_descriptif;
+	String adresseWeb;
+}
